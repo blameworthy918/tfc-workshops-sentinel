@@ -10,8 +10,8 @@ import "tfplan-functions" as plan
 
 ### List of mandatory tags ###
 mandatory_tags = [
-  "Billable",
-  "Department",
+  "billable",
+  "department",
 ]
 
 # Get all Azure VMs
